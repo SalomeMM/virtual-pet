@@ -81,3 +81,9 @@ footer a {
       rgba(30, 40, 53, 0) 66%);
   color: #fafafa;
 }
+
+/* Something fancier:
+html/nunjucks docs: https: //mozilla.github.io/nunjucks/
+pug: https: //pugjs.org/
+haml: http: //haml.info/
+hbs(handlebars): http: //handlebarsjs.com/ */
