@@ -3,6 +3,8 @@ JavaScript (jQuery) application showing a virtual pet that can get treats, exerc
 - Play: will decrease weight and increase happiness.
 - Exercise: will decrease both weight and happiness.
 
+Deployed: https://bit.ly/3cM3a7z
+
 Challenges:
 
 - Step 1: Create pet_info object Create an object with keys "name", "weight", "happiness" and set initial values. Set this equal to variable "pet_info"
