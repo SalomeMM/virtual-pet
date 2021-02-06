@@ -1,4 +1,7 @@
-JavaScript (jQuery) application showing a virtual pet that can get treats, exercise and play. Depending on the user interaction, the pet's levels of happiness and weight will vary.
+JavaScript (jQuery) application showing a virtual pet that can get treats, exercise and play. Depending on the user interaction, the pet's levels of happiness and weight will vary.  
+- Treat: will increase both weight and happiness.
+- Play: will decrease weight and increase happiness.
+- Exercise: will decrease both weight and happiness.
 
 Challenges:
 
